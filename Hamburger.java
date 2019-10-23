@@ -1,4 +1,4 @@
-package com.TimBuchalka;
+package hamburger;
 
 public class Hamburger {
     private String name;

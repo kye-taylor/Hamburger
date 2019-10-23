@@ -1,4 +1,4 @@
-package com.TimBuchalka;
+package hamburger;
 
 public class HealthyBurger extends Hamburger {
     private String healthyExtra1Name;

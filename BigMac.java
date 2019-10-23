@@ -1,4 +1,4 @@
-package com.TimBuchalka;
+package hamburger;
 
 public class BigMac extends Hamburger {
     private String BasicBigMac1;
